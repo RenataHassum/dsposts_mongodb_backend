@@ -1,4 +1,4 @@
-package com.devsuperior.workshopmongo.models.repositories;
+package com.devsuperior.workshopmongo.repositories;
 
 import com.devsuperior.workshopmongo.models.entities.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
